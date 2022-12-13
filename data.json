@@ -1,0 +1,29 @@
+{
+    "name": "Буся",
+    "id": "1",
+    "img_link": "https://avatars.mds.yandex.net/i?id=e737f227b449bde09d1fd6ab49280ae7958f048c-4120598-images-thumbs&n=13",
+    "age": "2",
+    "rate": "4",
+    "favourite": false,
+    "description": "Буся кот"
+}
+
+{
+    "name": "Кинг",
+    "id": "2",
+    "img_link": "https://avatars.mds.yandex.net/i?id=67c6b70245dd49544cefd82d5f0a032e9f6cb672-5293853-images-thumbs&n=13",
+    "age": "4",
+    "rate": "5",
+    "favourite": false,
+    "description": "Супер кот"
+}
+
+{
+    "name": "Люцик",
+    "id": "3",
+    "img_link": "https://img.freepik.com/free-photo/the-cat-on-white-background_155003-15381.jpg?w=2000",
+    "age": "1",
+    "rate": "5",
+    "favourite": false,
+    "description": "test"
+}
